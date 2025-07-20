@@ -1,0 +1,15 @@
+# Development dependencies
+pytest>=6.0
+pytest-cov
+black
+flake8
+mypy
+build
+twine
+
+# Documentation
+sphinx
+sphinx-rtd-theme
+
+# The main package dependencies
+-r requirements.txt

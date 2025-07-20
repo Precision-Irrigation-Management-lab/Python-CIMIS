@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include python_cimis *.py
+recursive-include python_cimis py.typed
