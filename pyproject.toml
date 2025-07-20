@@ -4,18 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python-CIMIS"
-version = "1.3.3"
+version = "1.3.5"
 description = "A comprehensive Python client for the California Irrigation Management Information System (CIMIS) API"
 authors = [
     {name = "Mahipal Reddy Ramireddy", email = "mahipalbablu16@gmail.com"},
-    {name = "M. A. Andrade", email= "andradea@unr.edu"}
+    {name = "M. A. Andrade", email = "andradea@unr.edu"}
 ]
 maintainers = [
-    {name = "Precision Irrigation Management Lab (PRIMA)"}
+    {name = "Precision Irrigation Management Lab (PRIMA)", email = "mahipalbablu16@gmail.com"}
 ]
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.8"
+dynamic = []
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
@@ -31,7 +32,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Utilities",
 ]
-keywords = ["cimis", "weather", "california", "irrigation", "agriculture", "climate", "data", "api"]
+keywords = ["cimis", "weather", "california", "irrigation", "agriculture", "climate", "data", "api", "meteorology", "evapotranspiration"]
 dependencies = [
     "requests>=2.25.0"
 ]
@@ -55,7 +56,9 @@ Homepage = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS"
 Repository = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS"
 Documentation = "https://python-cimis.readthedocs.io/"
 "Bug Reports" = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS/issues"
-"ReadTheDocs" = "https://python-cimis.readthedocs.io/"
+"Source Code" = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS"
+"Download" = "https://pypi.org/project/python-CIMIS/"
+"Tracker" = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

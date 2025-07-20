@@ -9,8 +9,8 @@ from .client import CimisClient
 from .exceptions import CimisError, CimisAPIError, CimisDataError, CimisConnectionError, CimisAuthenticationError
 from .models import WeatherData, Station, ZipCode, SpatialZipCode
 
-__version__ = "1.0.0"
-__author__ = "Mahipal Reddy Ramireddy, M. A. Andrade"
+__version__ = "1.3.5"
+__author__ = "Mahipal Reddy Ramireddy, M. A. Andrade "
 __email__ = "mahipalbablu16@gmail.com"
 __maintainer__ = "Precision Irrigation Management Lab (PRIMA)"
 __description__ = "A comprehensive Python client for the California Irrigation Management Information System (CIMIS) API"

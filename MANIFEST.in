@@ -1,5 +1,14 @@
 include README.md
 include LICENSE
+include AUTHORS.md
 include requirements.txt
+include pyproject.toml
 recursive-include python_cimis *.py
 recursive-include python_cimis py.typed
+include python_cimis/py.typed
+exclude *.pyc
+exclude .git*
+exclude .coverage
+exclude .pytest_cache
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
