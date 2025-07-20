@@ -51,11 +51,11 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/python-cimis/python-cimis-client"
-Repository = "https://github.com/python-cimis/python-cimis-client"
-Documentation = "https://python-cimis-client.readthedocs.io/"
-"Bug Reports" = "https://github.com/python-cimis/python-cimis-client/issues"
-"ReadTheDocs" = "https://python-cimis-client.readthedocs.io/"
+Homepage = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS"
+Repository = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS"
+Documentation = "https://python-cimis.readthedocs.io/"
+"Bug Reports" = "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS/issues"
+"ReadTheDocs" = "https://python-cimis.readthedocs.io/"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -5,6 +5,11 @@ A comprehensive Python client library for the California Irrigation Management I
 [![PyPI version](https://badge.fury.io/py/python-CIMIS.svg)](https://badge.fury.io/py/python-CIMIS)
 [![Python versions](https://img.shields.io/pypi/pyversions/python-CIMIS.svg)](https://pypi.org/project/python-CIMIS/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Documentation Status](https://readthedocs.org/projects/python-cimis/badge/?version=latest)](https://python-cimis.readthedocs.io/en/latest/?badge=latest)
+
+## 📚 Documentation
+
+**📖 [Complete Documentation](https://python-cimis.readthedocs.io/)** - Detailed guides, API reference, and examples
 
 ## 📋 Table of Contents
 
@@ -643,10 +648,11 @@ This library is not affiliated with the California Department of Water Resources
 
 ## 🔗 Useful Links
 
-- **📋 [CIMIS Website](https://cimis.water.ca.gov/)** - Official CIMIS portal
+- **� [Python CIMIS Documentation](https://python-cimis.readthedocs.io/)** - Complete library documentation
+- **�📋 [CIMIS Website](https://cimis.water.ca.gov/)** - Official CIMIS portal
 - **📖 [CIMIS API Documentation](https://et.water.ca.gov/Rest/Index)** - Official API docs
 - **🏛️ [California Department of Water Resources](https://water.ca.gov/)** - DWR website
-- **🐛 [Report Issues](https://github.com/python-cimis/python-cimis-client/issues)** - Bug reports and feature requests
+- **🐛 [Report Issues](https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS/issues)** - Bug reports and feature requests
 - **📦 [PyPI Package](https://pypi.org/project/python-CIMIS/)** - Package on PyPI
 
 ---

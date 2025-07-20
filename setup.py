@@ -18,12 +18,12 @@ setup(
     description="A comprehensive Python client for the California Irrigation Management Information System (CIMIS) API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/python-cimis/python-cimis-client",
+    url="https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS",
     project_urls={
-        "Bug Reports": "https://github.com/python-cimis/python-cimis-client/issues",
-        "Source": "https://github.com/python-cimis/python-cimis-client",
-        "Documentation": "https://python-cimis-client.readthedocs.io/",
-        "ReadTheDocs": "https://python-cimis-client.readthedocs.io/",
+        "Bug Reports": "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS/issues",
+        "Source": "https://github.com/Precision-Irrigation-Management-lab/Python-CIMIS",
+        "Documentation": "https://python-cimis.readthedocs.io/",
+        "ReadTheDocs": "https://python-cimis.readthedocs.io/",
     },
     packages=find_packages(),
     classifiers=[
